@@ -4,7 +4,7 @@
   "dependencies": {
     "express": "^4.22.0",
     "neo4j-driver": "^1.6.3",
-    "ws": "^6.2.3"
+    "ws": "^6.2.4"
   },
   "name": "board_games",
   "version": "0.0.1",
